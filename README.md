@@ -10,6 +10,9 @@ I make YT Vids & Fuck around with code
 
 [Strive Radio](https://striveradio.com)
 
+[AuroraRadio](https://discord.gg/mfGCAhKEtC)
+
+
 # Socials
 
 [YouTube](https://youtube.com/@ImJustLuna)
