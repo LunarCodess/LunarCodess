@@ -1,9 +1,8 @@
 ### Hey! 👋 Im Luna
 
-# Creator Of Musy
+# CEO Of AuroraRadio
 
-Musy is a discord bot which you can invie [here](https://sites.google.com/view/musybot/)
-
+AuroraRadio is the brand new radio for the future of Discord Radio [Listen Now](https://auroraradio.ml)
 # Alright, what do you do?
 
 I make YT Vids & Fuck around with code
@@ -18,3 +17,13 @@ I make YT Vids & Fuck around with code
 [YouTube](https://youtube.com/@ImJustLuna)
 
 [Chat To Me Here!](https://discord.gg/UjpryyTquh)
+
+
+# Hobbies
+
+- Making YT Vids
+
+- Traveling
+
+- Doing Radio Shows On [Strive Radio](https://striveradio.com) and [AuroraRadio](https://auroraradio.ml) Why not listen lol.
+
