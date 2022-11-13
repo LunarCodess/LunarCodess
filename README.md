@@ -7,10 +7,6 @@ AuroraRadio is the brand new radio for the future of Discord Radio [Listen Now](
 
 I make YT Vids & Fuck around with code
 
-[Strive Radio](https://striveradio.com)
-
-[AuroraRadio](https://discord.gg/mfGCAhKEtC)
-
 
 # Socials
 
@@ -18,12 +14,9 @@ I make YT Vids & Fuck around with code
 
 [Chat To Me Here!](https://discord.gg/UjpryyTquh)
 
-
 # Hobbies
 
 - Making YT Vids
 
 - Traveling
-
-- Doing Radio Shows On [Strive Radio](https://striveradio.com) and [AuroraRadio](https://auroraradio.ml) Why not listen lol.
 
