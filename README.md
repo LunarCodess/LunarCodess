@@ -1,8 +1,8 @@
 ### Hey! 👋 Im Luna
 
-# CEO Of AuroraRadio
+# Creator Of Omlet Arcade SharePoint
+Omlet Arcade SharePoint enables you to share stuff from within your app to the Omlet Arcade platform
 
-AuroraRadio is the brand new radio for the future of Discord Radio [Listen Now](https://auroraradio.ml)
 # Alright, what do you do?
 
 I make YT Vids & Fuck around with code
