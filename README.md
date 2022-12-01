@@ -12,9 +12,9 @@ I make YT Vids & Fuck around with code
 
 # Socials
 
-[YouTube](https://youtube.com/@ImJustLuna)
+- [YouTube](https://youtube.com/@ImJustLuna)
 
-[Chat To Me Here!](https://discord.gg/UjpryyTquh)
+- [Chat To Me Here!](https://discord.gg/UjpryyTquh)
 
 # Hobbies
 
