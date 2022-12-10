@@ -21,6 +21,4 @@ I make YT Vids & Fuck around with code
 - Traveling
 
 
-Stats
 
-https://discord.c99.nl/widget/theme-5/1034543425992786001.png
