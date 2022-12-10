@@ -1,24 +1,11 @@
-### Hey! 👋 Im Luna
+<p align="center"> <img src="https://hit.yhype.me/github/profile?user_id=111448477" alt="Profile Views" /> </p>  
 
-# Creator Of LunarUtils
-A Util Bot That Will Be Out Next Year!
+<p align="center">
+  <a href="https://discord.com/users/1034543425992786001">
+     <img src="https://discord.c99.nl/widget/theme-5/1034543425992786001.png"/>
+       </a>
+</p>
 
-# Alright, what do you do?
-
-I make YT Vids & Fuck around with code
-
-
-# Socials
-
-- [YouTube](https://youtube.com/@LunarPlaysLIVE)
-
-- [Chat To Me Here!](https://discord.gg/ht5PScgeze)
-
-# Hobbies
-
-- Making YT Vids
-
-- Traveling
 
 
 
