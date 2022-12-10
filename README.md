@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://hit.yhype.me/github/profile?user_id=111448477" alt="Profile Views" /> </p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LunarCodess" alt="Profile Views" /> </p>  
 
 <p align="center">
   <a href="https://discord.com/users/1034543425992786001">
